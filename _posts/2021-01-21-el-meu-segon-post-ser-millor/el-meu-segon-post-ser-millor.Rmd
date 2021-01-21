@@ -1,0 +1,23 @@
+---
+title: "El meu segon post serà millor"
+description: |
+  A short description of the post.
+author:
+  - name: Nora Jones
+    url: https://example.com/norajones
+date: 01-21-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Aquesta és una nova publicació molt important.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+

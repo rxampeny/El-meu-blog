@@ -15,5 +15,22 @@
     "preview": {},
     "last_modified": "2021-01-21T11:10:03+01:00",
     "input_file": {}
+  },
+  {
+    "path": "posts/2021-01-21-el-meu-segon-post-ser-millor/",
+    "title": "El meu segon post serà millor",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-01-21",
+    "categories": [],
+    "contents": "\r\nAquesta és una nova publicació molt important.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-01-21T11:18:58+01:00",
+    "input_file": "el-meu-segon-post-ser-millor.utf8.md"
   }
 ]
