@@ -100,5 +100,22 @@
     "preview": {},
     "last_modified": "2021-01-21T16:50:47+01:00",
     "input_file": "un-post-para-lex.utf8.md"
+  },
+  {
+    "path": "posts/2021-01-22-seguim-provant/",
+    "title": "Seguim provant",
+    "description": "Aquest és un post de prova novament. A veure si funciona.",
+    "author": [
+      {
+        "name": "Rafel Xampeny",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-01-22",
+    "categories": [],
+    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-01-22T11:31:33+01:00",
+    "input_file": "seguim-provant.utf8.md"
   }
 ]
