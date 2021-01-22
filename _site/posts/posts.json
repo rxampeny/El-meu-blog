@@ -83,5 +83,22 @@
     "preview": {},
     "last_modified": "2021-01-21T11:29:00+01:00",
     "input_file": "no-era-el-ltim.utf8.md"
+  },
+  {
+    "path": "posts/2021-01-21-un-post-para-lex/",
+    "title": "Un post para Álex",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Rafa",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-01-21",
+    "categories": [],
+    "contents": "\r\nHOLA COMO ESTAIS\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-01-21T16:50:47+01:00",
+    "input_file": "un-post-para-lex.utf8.md"
   }
 ]
