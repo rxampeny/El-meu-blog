@@ -1,0 +1,23 @@
+---
+title: "Seguim provant"
+description: |
+  Aquest és un post de prova novament. A veure si funciona.
+author:
+  - name: Rafel Xampeny 
+    url: https://example.com/norajones
+date: 01-22-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+
